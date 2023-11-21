@@ -1,4 +1,4 @@
-Certainly! Below is a completed README.md file for your GitHub repository hosting a Rock Paper Scissors website:
+
 
 ---
 
