@@ -17,7 +17,7 @@ This repository hosts a simple Rock Paper Scissors game implemented as a website
 
 ## Demo
 
-You can access the live demo of this Rock Paper Scissors game [here](https://your-demo-link.com).
+You can access the live demo of this Rock Paper Scissors game [here](https://anirudhwillcode.github.io/javascript-rockpaper/).
 
 ![Rock Paper Scissors Demo](demo.gif)
 
