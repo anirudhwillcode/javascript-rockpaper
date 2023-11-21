@@ -2,7 +2,7 @@
 
 ---
 
-# Rock Paper Scissors Website
+# Rock Paper Scissors Website -
 
 This repository hosts a simple Rock Paper Scissors game implemented as a website using HTML, CSS, and JavaScript.
 
